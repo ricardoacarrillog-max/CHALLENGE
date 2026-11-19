@@ -1,0 +1,2 @@
+# CHALLENGE
+Django CI project
